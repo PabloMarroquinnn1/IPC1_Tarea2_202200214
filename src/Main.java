@@ -46,6 +46,9 @@ public class Main {
                 ms("Opción no válida");
         }
     }
+Public static void hl(String hola) {
+System.out.println("hola");
+}
 
     public static void ms(String mensaje) {
         System.out.println(mensaje);
